@@ -30,4 +30,4 @@ RAM-VM Halted
 # 📝 License
 
 #### Copyright © 2022 [M.V.Harish Kumar](https://github.com/harishtpj). <br>
-#### This project is [MIT]() licensed.
+#### This project is [MIT](https://github.com/harishtpj/RAM-VM-v2.0/blob/main/LICENSE) licensed.
